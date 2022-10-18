@@ -1,5 +1,4 @@
-### Hi there, I'm Andreia 👋
-### Oie, eu sou a Andreia 👋
+### Hi there, I'm Andreia // Oie, eu sou a Andreia 👋
 
 <div>
   <a href="https://github.com/deiaalvs">
