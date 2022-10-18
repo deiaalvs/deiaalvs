@@ -1,5 +1,4 @@
 ### Hi there, I'm Andreia // Oie, eu sou a Andreia 👋
-
 <div>
   <a href="https://github.com/deiaalvs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deiaalvs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
